@@ -2,6 +2,16 @@
 # Unidad 3
 ---
 ## Documentación del proyecto
-Nombre:  
-ID:  
+Nombre:  Camilo Correa Tabares
+ID:  000509030
 ---
+taquilla de cine
+inicio
+
+Definimos la cantidad de boletas que se pueden vender por dia
+definimos la cantidad de pelicuas disponiles, el horario de cada función y su duracion
+definimos y mostramos la cantidad de asientos que están disponibles en cada funcion
+boleto_general = 10
+boleto_preferencial = 20
+
+
