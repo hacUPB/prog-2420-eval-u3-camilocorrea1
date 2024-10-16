@@ -49,7 +49,7 @@ Mostrar Resultado Final
     Mostrar película elegida.
     Mostrar combo seleccionado.
     Mostrar total a pagar.
-Fin del Programa
+Fin del Programa.
 
 
 

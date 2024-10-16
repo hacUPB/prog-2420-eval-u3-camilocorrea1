@@ -61,7 +61,7 @@ EJEMPLOS:
 
 3)
     ¿Qué día asistirás al cine? (Lunes a Domingo): viernes
-    Películas disponibles:
+    Películas disponibles
     1. Iron Man
     2. Capitán América
     3. Thor
